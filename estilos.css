@@ -147,4 +147,14 @@ body {
     width: 90%;
   }
 
+  .banners {
+    height: 50vh;
+    background-attachment: unset;
+    /*paralaxe*/
+  }
+  
+  .banner-titulo{
+    padding: 0 20px;
+  }
+
 }
